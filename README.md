@@ -1,3 +1,3 @@
 # Second_Repo
 Lesson 6
-This is note 
+This is note 1
